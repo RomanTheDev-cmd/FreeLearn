@@ -1,0 +1,56 @@
+Источники и лицензии Freelearn Video
+
+Landscape-nature-forest-lake (24300004076) — www.Pixel.la Free Stock Photos
+Источник: https://commons.wikimedia.org/wiki/File:Landscape-nature-forest-lake_(24300004076).jpg
+Лицензия: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+Указание: No attribution required; source is recorded for provenance.
+
+Drone Footage of a Lake near a Mountain (30 s, 3840×2160) — _ MARROS _
+Источник: https://www.pexels.com/video/drone-footage-of-a-lake-near-a-mountain-10159655/
+Лицензия: Pexels License (free for commercial and non-commercial use; attribution not required) (https://www.pexels.com/license/)
+Указание: Source and creator recorded for provenance; do not redistribute the unaltered video as a standalone stock file.
+
+Landscape-mountains-nature-lake (24326735085) — www.Pixel.la Free Stock Photos
+Источник: https://commons.wikimedia.org/wiki/File:Landscape-mountains-nature-lake_(24326735085).jpg
+Лицензия: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+Указание: No attribution required; source is recorded for provenance.
+
+Lake in the Middle of Mountains (46 s, 1920×1080) — Wayne Speedy
+Источник: https://www.pexels.com/video/lake-in-the-middle-of-mountains-2292658/
+Лицензия: Pexels License (free for commercial and non-commercial use; attribution not required) (https://www.pexels.com/license/)
+Указание: Source and creator recorded for provenance; do not redistribute the unaltered video as a standalone stock file.
+
+Inter Variable — The Inter Project Authors
+Источник: https://github.com/rsms/inter
+Лицензия: SIL Open Font License 1.1 (https://openfontlicense.org/open-font-license-official-text/)
+Указание: Font is bundled with its OFL license; the OFL does not require credit in rendered videos.
+
+Almost in F — Kevin MacLeod
+Источник: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100394
+Лицензия: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+Указание: "Almost in F" Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 4.0
+https://creativecommons.org/licenses/by/4.0/
+Changes: continuous excerpt, fades, gain and planned ducking, synchronization with video.
+
+Pedalboard 0.9.26 — Spotify and contributors
+Источник: https://github.com/spotify/pedalboard
+Лицензия: GPL-3.0 software (https://github.com/spotify/pedalboard/blob/master/LICENSE)
+Указание: Local plugin hosting and audio processing; software is not included with video outputs.
+
+Qwen3-TTS Base — consistent synthetic Russian male — Qwen Team, Alibaba Cloud; MLX conversion by mlx-community
+Источник: https://huggingface.co/mlx-community/Qwen3-TTS-12Hz-1.7B-Base-4bit
+Лицензия: Apache-2.0 (https://github.com/QwenLM/Qwen3-TTS/blob/main/LICENSE)
+Указание: Base revision 37e955a1deb861c088ae5f3a67043185f3d1a60c; reference generated with VoiceDesign 5c390979e4b93af5f2932f90742ca99c7dd04687. Entirely synthetic reference, no person recording or author voice clone. Voice accepted by Roman on 2026-10-20.
+
+Qwen3-TTS 1.7B VoiceDesign — synthetic Russian male candidate — Qwen Team, Alibaba Cloud; MLX conversion by mlx-community
+Источник: https://huggingface.co/mlx-community/Qwen3-TTS-12Hz-1.7B-VoiceDesign-4bit
+Лицензия: Apache-2.0 (https://github.com/QwenLM/Qwen3-TTS/blob/main/LICENSE)
+Указание: Pinned revision 5c390979e4b93af5f2932f90742ca99c7dd04687. Synthetic voice from text description, Russian language. No person recording or author voice clone. Unapproved review candidate.
+
+MLX-Audio 0.5.8 — MLX-Audio contributors
+Источник: https://github.com/Blaizzy/mlx-audio
+Лицензия: MIT (https://github.com/Blaizzy/mlx-audio/blob/main/LICENSE)
+Указание: Local Apple Silicon inference; no hosted inference used.
+
+Локальная озвучка: qwen3-tts-mlx-base-synthetic-reference (см. приложенную лицензионную памятку).
